@@ -27,7 +27,7 @@ We have tested our program in above version, however you can use it in other ver
 
 
 ## Demo
-[![](wli_mediapicker.gif)](http://git-ar.webline.local/Flutter/FL_Media_Picker/blob/master/wli_mediapicker.gif)
+[![](wli_mediapicker.gif)](https://github.com/weblineindia/Flutter-Custom-MediaPicker/blob/master/wli_mediapicker.gif)
 
 ------
 
@@ -178,7 +178,7 @@ Detailed changes for each release are documented in [CHANGELOG](./CHANGELOG).
 
 [MIT](LICENSE)
 
-[mit]: http://git-ar.webline.local/Flutter/FL_Media_Picker/blob/master/LICENSE
+[mit]: https://github.com/weblineindia/Flutter-Custom-MediaPicker/blob/master/LICENSE
 
 ## Keywords
 Flutter Media Picker, Image Picker, Video Picker, Multiple Image Selection, Media Picker Demo, Weblineindia
